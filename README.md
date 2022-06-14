@@ -7,6 +7,7 @@
         1 = preto;
         2 = vermelho;
         3 = bege;
+        preencheu 16 linhas ? não ( voltar a solicitar cor)
       preencheu 16 linhas ? sim 
       iniciar proxima coluna.
   
